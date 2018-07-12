@@ -12,6 +12,8 @@
   * Android App Development - Beginners (thenewboston.com)
   *  Android App Development for Beginners (youtube.com)
   
+* [Learn Android 4.0 Programming in Java](https://www.learnfreecourses.com/2018/01/udmey-learn-android-40-programming-in.html)
+
 * [Free Firebase courses for Android , Unity , Web , C++](https://www.learnfreecourses.com/2017/12/free-firebase-courses-for-android-unity.html)
   * Firebase in a Weekend by udacity.com
   * Basics of Firebase
@@ -22,6 +24,12 @@
   *  Kotlin Tutorial (official docs)
   * Kotlin Beginner Tutorials (youtube.com)
   * Android Development with Kotlin (youtube.com)
+  
+* [3 Places to Learn PhoneGap for FREE](https://www.learnfreecourses.com/2018/01/3-places-to-learn-phonegap-for-free.html)
+  * PhoneGap Explained Visually Created by : Andrew Trice
+  * Apache Cordova Tutorial
+  * Free Phonegap Tutorial for Android & iOS for Beginners - Youtube
+  
 
 ### Adobe Photoshop CC
 * [Free course on Adobe Photoshop CC: Your Complete Beginner's Guide - FREE
@@ -31,6 +39,10 @@
 *  [EdX: CS188.1x: Artificial Intelligence by University of California, Berkeley  with Dan Klein and Pieter Abbeel](https://www.learnfreecourses.com/2017/11/2-best-courses-on-edx-and-udacity-to.html)
 *  [Udacity: Artificial Intelligence for Robotics by Stanford University  with Sebastian Thrun](https://www.learnfreecourses.com/2017/11/2-best-courses-on-edx-and-udacity-to.html)
 
+### Algorithms
+* [Coursera  - Algorithms, Part I Created by :  Princeton University](https://www.learnfreecourses.com/2018/01/coursera-learn-algorithms-for-free.html)
+* [Coursera  - Algorithms, Part II Created by:  Princeton University](https://www.learnfreecourses.com/2018/01/coursera-learn-algorithms-for-free.html)
+
 ### Block-chain development and Crypto Currency
 * [4 Free resources you will need to learn all about Bitcoin](https://www.learnfreecourses.com/2017/12/4-free-resources-you-will-need-to-learn.html)
   * The Bitcoin Wiki
@@ -38,11 +50,25 @@
   * This highly informative interview with Nick Szabos conducted by Tim Ferriss
   * Ivan on Tech on Youtube, who is absolutely amazing at breaking down technical Bitcoin concepts. 
   
+  
  ### COBOL 
  * [COBOL Programming - Tutorials, Lectures, Exercises, Examples](https://www.learnfreecourses.com/2017/12/learn-cobol-for-free.html)
 
+
+### CompTIA 
+* [3 Courses to Learn CompTIA - FREE](https://www.learnfreecourses.com/2017/12/3-courses-to-learn-comptia-free.html)
+  * CompTIA A+ Training Course
+  * CompTIA Network+ Training Course
+  * CompTIA Security+ Training Course
+  
+  
 ### Computer Science
 * [Udacity - Intro to Computer Science - FREE](https://www.learnfreecourses.com/2017/12/udacity-intro-to-computer-science-free.html)
+* [Introduction to Computer Science and Programming by MIT](https://www.learnfreecourses.com/2018/01/mit-introduction-to-computer-science.html)
+* [Edx - Introduction to Computer Science](https://www.learnfreecourses.com/2018/01/edx-learn-computer-science-for-free.html)
+
+### Hadoop and BigData
+* [Eduonix - Learn Hadoop and BigData Technologies](https://www.learnfreecourses.com/2018/06/learn-hadoop-and-bigdata-technologies.html)
 
 ### IOS and Swift Development
 * [6 Free Courses to Learn IOS and Swift Development](https://www.learnfreecourses.com/2017/12/6-free-courses-to-learn-ios-and-swift.html)
@@ -52,6 +78,8 @@
   * Learn iOS Programming
   * iOS and OS X Development + Swift Talk
   * Hacking with Swift
+ 
+* [Udacity  - Intro to iOS App Development with Swift - FREE](https://www.learnfreecourses.com/2018/01/udacity-intro-to-ios-app-development.html)
   
 ### Information Security & Hacking
 * [Hacking Techniques and Intrusion Detection](https://www.learnfreecourses.com/2017/12/free-information-security-hacking.html)
@@ -59,19 +87,22 @@
 * [Hacking Mobile Devices](https://www.learnfreecourses.com/2017/12/free-information-security-hacking.html)
 * [Offensive Network Security](https://www.learnfreecourses.com/2017/12/free-information-security-hacking.html)
 
-  
+### Git and Github
+* [Udmey - Learn how to use Git and GithHub Step by Step](https://www.learnfreecourses.com/2018/07/git-and-github-step-by-step-for.html)
+
 ### Java
 * [Udemy Course : Java Tutorial for Complete Beginners - FREE](https://www.learnfreecourses.com/2017/10/udemy-course-java-tutorial-for-complete.html)
 * [Learn JAVA (Learn X in Y minutes)](https://www.learnfreecourses.com/2017/12/leanrn-java-learn-x-in-y-minutes-free.html)
 
+### Jmeter
+* [Udmey - JMeter - Step by Step for Beginners](https://www.learnfreecourses.com/2018/06/jmeter-step-by-step-for-beginners.html)
+
 ### MATLAB 
  * [Coursera: Introduction to Programming with MATLAB - Free](https://www.learnfreecourses.com/2017/11/coursera-introduction-to-programming.html)
- 
-### CompTIA 
-* [3 Courses to Learn CompTIA - FREE](https://www.learnfreecourses.com/2017/12/3-courses-to-learn-comptia-free.html)
-  * CompTIA A+ Training Course
-  * CompTIA Network+ Training Course
-  * CompTIA Security+ Training Course
+   
+### PHP
+* [Udmey Free Course - Learn what's new in PHP 7](https://www.learnfreecourses.com/2018/01/udmey-free-course-learn-whats-new-in.html)
+* [Eduonix - Become A Certified Web Developer From Scratch](https://www.learnfreecourses.com/2018/07/become-certified-web-developer-from.html)
  
 ### Selenium
 * [ Udmey - Selenium WebDriver Training with Java Basics - Free](https://www.learnfreecourses.com/2017/11/udmey-learn-selenium-with-java-python.html)
@@ -93,6 +124,7 @@
   * WordPress for Beginners - Youtube
   * WordPress Basics  - Youtube
 
+
 ### Best Platfroms to Learn to Code
 * [Platfrom List](https://www.learnfreecourses.com/2017/10/rtest.html)
 * [Swayam - by Ministry of Human Resource Development - India ](https://www.learnfreecourses.com/2017/10/online-self-learning-courses.html)
@@ -113,6 +145,23 @@
    * [You Don't Know JS: Async & Performance](https://www.learnfreecourses.com/2017/12/6-free-online-books-to-learn-javascript.html)
    * [You Don't Know JS: ES6 & Beyond](https://www.learnfreecourses.com/2017/12/6-free-online-books-to-learn-javascript.html)
    
+*  #### Python
+   * [The Hitchhiker’s Guide to Python!](https://www.learnfreecourses.com/2018/01/free-python-books-for-novice-and-expert.html)
+   * [Dive Into Python - Python from novice to pro](https://www.learnfreecourses.com/2018/01/free-python-books-for-novice-and-expert.html)
+   * [Automate the Boring Stuff with Python](https://www.learnfreecourses.com/2018/01/automation-boring-stuff-and-test-driven.html)
+   * [Test-Driven Development with Python](https://www.learnfreecourses.com/2018/01/automation-boring-stuff-and-test-driven.html)
+   * [A Byte of Python](https://www.learnfreecourses.com/2018/02/learn-python-programming-for-beginners.html)
+   * [Welcome to Python for you and me](https://www.learnfreecourses.com/2018/02/learn-python-programming-for-beginners.html)
+   
+*  #### Big Data and Data Science 
+   * [Big data for dummies](https://www.learnfreecourses.com/2018/02/free-e-book-big-data-for-dummies.html)
+   * [R for Data Science By : Garrett Grolemund and Hadley Wickham](https://www.learnfreecourses.com/2018/05/free-book-r-for-data-science-read-online.html)
+
+*  #### Deep Learning
+   * [Deep Learning - The Straight Dope](https://www.learnfreecourses.com/2018/04/free-e-book-read-online-deep-learning.html)
+   
+*  #### Operating Systems
+   * [Operating Systems: Three Easy Pieces ](https://www.learnfreecourses.com/2018/01/free-e-book-operating-systems-three.html) 
 
 # Entrepreneurship
 
