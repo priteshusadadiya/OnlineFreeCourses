@@ -18,7 +18,7 @@ If you need information about any online courses and resources please [send us a
 
 If you know about any course or material that is free and online available for anyone one to use. then your contribution is more than welcome. Please let us know of such resources so that we can provide it here for anyone to use..
 
-#### Courses are retrived from Platfroms like 
+### Courses Retrived From
 
 * Edx
 * Coursera
