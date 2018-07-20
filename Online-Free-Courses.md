@@ -31,9 +31,10 @@
   * Free Phonegap Tutorial for Android & iOS for Beginners - Youtube
   
 
-### Adobe Photoshop CC
+### UI / UX Design
 * [Free course on Adobe Photoshop CC: Your Complete Beginner's Guide - FREE
 ](https://www.learnfreecourses.com/2017/11/free-course-on-adobe-photoshop-cc-your.html)
+* [Learn How To Design/User Experience [100% FREE]](http://www.learnfreecourses.com/2018/07/learn-how-to-designuser-experience-100.html)
 
 ### Artificial Intelligence
 *  [EdX: CS188.1x: Artificial Intelligence by University of California, Berkeley  with Dan Klein and Pieter Abbeel](https://www.learnfreecourses.com/2017/11/2-best-courses-on-edx-and-udacity-to.html)
@@ -69,6 +70,7 @@
 
 ### Hadoop and BigData
 * [Eduonix - Learn Hadoop and BigData Technologies](https://www.learnfreecourses.com/2018/06/learn-hadoop-and-bigdata-technologies.html)
+* [Learn Hadoop and Big Data by Building Projects - FREE](http://www.learnfreecourses.com/2018/07/learn-hadoop-and-big-data-by-building.html)
 
 ### IOS and Swift Development
 * [6 Free Courses to Learn IOS and Swift Development](https://www.learnfreecourses.com/2017/12/6-free-courses-to-learn-ios-and-swift.html)
@@ -93,6 +95,7 @@
 ### Java
 * [Udemy Course : Java Tutorial for Complete Beginners - FREE](https://www.learnfreecourses.com/2017/10/udemy-course-java-tutorial-for-complete.html)
 * [Learn JAVA (Learn X in Y minutes)](https://www.learnfreecourses.com/2017/12/leanrn-java-learn-x-in-y-minutes-free.html)
+* [Java Programming Course for Beginner From Scratch [100% Free]](http://www.learnfreecourses.com/2018/07/java-programming-course-for-beginner.html)
 
 ### Jmeter
 * [Udmey - JMeter - Step by Step for Beginners](https://www.learnfreecourses.com/2018/06/jmeter-step-by-step-for-beginners.html)
