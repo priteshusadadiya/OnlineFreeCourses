@@ -1,5 +1,5 @@
 # Online Free Courses
-Collection of 100% Courses around the WEB
+Collection of 100% Free Resources around the WEB
 
 This is the ultimate collections of free online video tutorials to learn different programming languages. Start to learn about web design, web development, mobile apps development, chatbot development with the best online courses available for free. It includes free video courses from the sites like Udemy, SkillShare, Lynda, Udacity etc.
 
