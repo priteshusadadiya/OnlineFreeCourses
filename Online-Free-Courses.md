@@ -68,6 +68,12 @@
 * [Introduction to Computer Science and Programming by MIT](https://www.learnfreecourses.com/2018/01/mit-introduction-to-computer-science.html)
 * [Edx - Introduction to Computer Science](https://www.learnfreecourses.com/2018/01/edx-learn-computer-science-for-free.html)
 
+### CI / CD
+* [JENKINS Beginner Tutorial - Step by Step](http://www.learnfreecourses.com/2018/07/jenkins-beginner-tutorial-step-by-step.html)
+
+### Could Computing
+* [2 Udmey Courses to Learn AWS - 100% Free ](http://www.learnfreecourses.com/2018/07/2-udmey-courses-to-learn-aws-100-free.html)
+
 ### Hadoop and BigData
 * [Eduonix - Learn Hadoop and BigData Technologies](https://www.learnfreecourses.com/2018/06/learn-hadoop-and-bigdata-technologies.html)
 * [Learn Hadoop and Big Data by Building Projects - FREE](http://www.learnfreecourses.com/2018/07/learn-hadoop-and-big-data-by-building.html)
@@ -155,6 +161,7 @@
    * [Test-Driven Development with Python](https://www.learnfreecourses.com/2018/01/automation-boring-stuff-and-test-driven.html)
    * [A Byte of Python](https://www.learnfreecourses.com/2018/02/learn-python-programming-for-beginners.html)
    * [Welcome to Python for you and me](https://www.learnfreecourses.com/2018/02/learn-python-programming-for-beginners.html)
+   * [2 E-Books to Learn Python Basic , IPython, NumPy, Pandas, Matplotlib, Scikit-Learn - For FREE](http://www.learnfreecourses.com/2018/07/2-e-books-to-learn-python-basic-ipython.html)
    
 *  #### Big Data and Data Science 
    * [Big data for dummies](https://www.learnfreecourses.com/2018/02/free-e-book-big-data-for-dummies.html)
