@@ -34,7 +34,8 @@
 ### UI / UX Design
 * [Free course on Adobe Photoshop CC: Your Complete Beginner's Guide - FREE
 ](https://www.learnfreecourses.com/2017/11/free-course-on-adobe-photoshop-cc-your.html)
-* [Learn How To Design/User Experience [100% FREE]](http://www.learnfreecourses.com/2018/07/learn-how-to-designuser-experience-100.html)
+* [Learn How To Design - User Experience - 100% FREE](http://www.learnfreecourses.com/2018/07/learn-how-to-designuser-experience-100.html)
+* [FREE HTML and CSS Tutorial with Marksheet.io - 100% FREE](http://www.learnfreecourses.com/2018/07/free-html-and-css-tutorial-with.html)
 
 ### Artificial Intelligence
 *  [EdX: CS188.1x: Artificial Intelligence by University of California, Berkeley  with Dan Klein and Pieter Abbeel](https://www.learnfreecourses.com/2017/11/2-best-courses-on-edx-and-udacity-to.html)
@@ -113,6 +114,9 @@
 * [Udmey Free Course - Learn what's new in PHP 7](https://www.learnfreecourses.com/2018/01/udmey-free-course-learn-whats-new-in.html)
 * [Eduonix - Become A Certified Web Developer From Scratch](https://www.learnfreecourses.com/2018/07/become-certified-web-developer-from.html)
  
+### Ruby 
+* [Learn to code in HTML + CSS, JAVASCRIPT , GIT, DATABASES , RUBY , RUBY ON RAILS with The Odin Project](http://www.learnfreecourses.com/2018/08/learn-to-code-in-html-css-javascript.html)
+
 ### Selenium
 * [ Udmey - Selenium WebDriver Training with Java Basics - Free](https://www.learnfreecourses.com/2017/11/udmey-learn-selenium-with-java-python.html)
 * [ Udmey - Selenium Webdriver with Python - Free](https://www.learnfreecourses.com/2017/11/udmey-learn-selenium-with-java-python.html)
