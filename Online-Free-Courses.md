@@ -1,5 +1,5 @@
 # Course Collection
-#### Collection of 100% FREE Resourses around the web
+#### Collection of 100% FREE Resources around the web
 
 # Programming
 
@@ -36,6 +36,7 @@
 ](https://www.learnfreecourses.com/2017/11/free-course-on-adobe-photoshop-cc-your.html)
 * [Learn How To Design - User Experience - 100% FREE](http://www.learnfreecourses.com/2018/07/learn-how-to-designuser-experience-100.html)
 * [FREE HTML and CSS Tutorial with Marksheet.io - 100% FREE](http://www.learnfreecourses.com/2018/07/free-html-and-css-tutorial-with.html)
+* [LEARN TO CODE AWESOME WEBSITES IN HTML, CSS, AND JAVASCRIPT - 100% Free](https://www.learnfreecourses.com/2018/11/learn-to-code-awesome-websites-in-html.html)
 
 ### Artificial Intelligence
 *  [EdX: CS188.1x: Artificial Intelligence by University of California, Berkeley  with Dan Klein and Pieter Abbeel](https://www.learnfreecourses.com/2017/11/2-best-courses-on-edx-and-udacity-to.html)
@@ -68,12 +69,15 @@
 * [Udacity - Intro to Computer Science - FREE](https://www.learnfreecourses.com/2017/12/udacity-intro-to-computer-science-free.html)
 * [Introduction to Computer Science and Programming by MIT](https://www.learnfreecourses.com/2018/01/mit-introduction-to-computer-science.html)
 * [Edx - Introduction to Computer Science](https://www.learnfreecourses.com/2018/01/edx-learn-computer-science-for-free.html)
+* [Free E-Book : Computer Science: An Interdisciplinary Approach - Read Online](https://www.learnfreecourses.com/2018/08/free-e-book-computer-science.html)
+
 
 ### CI / CD
 * [JENKINS Beginner Tutorial - Step by Step](http://www.learnfreecourses.com/2018/07/jenkins-beginner-tutorial-step-by-step.html)
 
 ### Could Computing
 * [2 Udmey Courses to Learn AWS - 100% Free ](http://www.learnfreecourses.com/2018/07/2-udmey-courses-to-learn-aws-100-free.html)
+* [The Open Guide to Amazon Web Services On GitHub - 100% FREE](https://www.learnfreecourses.com/2018/08/the-open-guide-to-amazon-web-services.html)
 
 ### Hadoop and BigData
 * [Eduonix - Learn Hadoop and BigData Technologies](https://www.learnfreecourses.com/2018/06/learn-hadoop-and-bigdata-technologies.html)
@@ -116,6 +120,7 @@
  
 ### Ruby 
 * [Learn to code in HTML + CSS, JAVASCRIPT , GIT, DATABASES , RUBY , RUBY ON RAILS with The Odin Project](http://www.learnfreecourses.com/2018/08/learn-to-code-in-html-css-javascript.html)
+* [Ruby on Rails Tutorial : Rails 5 - Read Book Online for FREE](https://www.learnfreecourses.com/2018/09/ruby-on-rails-tutorial-rails-5-read.html)
 
 ### Selenium
 * [ Udmey - Selenium WebDriver Training with Java Basics - Free](https://www.learnfreecourses.com/2017/11/udmey-learn-selenium-with-java-python.html)
@@ -129,6 +134,7 @@
   * C# scripting for Unity
   * Make a Game - Unity Course - Youtube
   * Introduction to Game Development (Unity and C#) - Youtube
+ * [Introduction To Unity® For Absolute Beginners | 2018 ready Udemy - 100% FREE](https://www.learnfreecourses.com/2018/08/introduction-to-unity-for-absolute.html)
 
 ### Wordpress 
 * [Learning Wordpress for Beginner and Professionals - FREE](https://www.learnfreecourses.com/2017/12/learning-wordpress-for-beginner-and.html)
@@ -141,6 +147,7 @@
 ### Best Platfroms to Learn to Code
 * [Platfrom List](https://www.learnfreecourses.com/2017/10/rtest.html)
 * [Swayam - by Ministry of Human Resource Development - India ](https://www.learnfreecourses.com/2017/10/online-self-learning-courses.html)
+* [CS305: WEB DEVELOPMENT - 100% FREE](https://www.learnfreecourses.com/2018/08/cs305-web-development-100-free.html)
 
 # Books
 
